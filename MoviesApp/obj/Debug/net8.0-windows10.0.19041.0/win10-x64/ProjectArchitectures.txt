@@ -1,0 +1,1 @@
+D:\.Net\.NET MAUI\MoviesApp\MoviesApp.csproj;x64

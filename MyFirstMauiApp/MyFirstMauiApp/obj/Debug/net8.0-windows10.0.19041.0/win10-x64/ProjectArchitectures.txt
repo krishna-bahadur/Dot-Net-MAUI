@@ -1,0 +1,1 @@
+D:\.Net\Apps\MyFirstMauiApp\MyFirstMauiApp\MyFirstMauiApp.csproj;x64

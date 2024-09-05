@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:Class="MoviesApp.MainPage"
+             BackgroundColor="#0A0A0A"
+             >
+
+    <!--Change Statubar color-->
+    <ContentPage.Behaviors>
+        <toolkit:StatusBarBehavior StatusBarColor="#0A0A0A" StatusBarStyle="LightContent" />
+    </ContentPage.Behaviors>
+    
+
+    <!--Text color for all Labels-->
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="#aaa" />
+            </Style>
+        </ResourceDictionary>    
+    </ContentPage.Resources>
+    
+    <!--Page content-->
+    <ScrollView Orientation="Vertical">
+        <StackLayout Padding="10" Spacing="20">
+            <!--Search Bar-->
+            <Frame CornerRadius="25"
+                   HasShadow="False"
+                   Padding="0"
+                   BackgroundColor="#f1f1f1"
+                   BorderColor="Transparent"
+                   >
+                <SearchBar Placeholder="Search anything..."
+                           BackgroundColor="Transparent"
+                           TextColor="#000"
+                           />
+            </Frame>
+            
+            <!--New Movies-->
+            <Label Text="Now-Playing"
+                   FontSize="18"
+                   />
+
+                <CollectionView
+                x:Name="nowPlayingMoviesCollection"
+                ItemsLayout="HorizontalList"
+                HeightRequest="200"
+                BackgroundColor="Transparent"
+                SelectionMode="None"> <!-- Disable selection mode since we are using tap gesture -->
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame BackgroundColor="Transparent"
+                               HasShadow="False"
+                               CornerRadius="10"
+                               Margin="0, 0, 15, 0"
+                               Padding="0"
+                               BorderColor="Transparent"
+                               >
+                            
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnMovieTapped" CommandParameter="{Binding}" />
+                            </Frame.GestureRecognizers>
+                            
+                            <Image Source="{Binding FullPosterUrl}" Aspect="AspectFill" />
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <!--Popular Movies-->
+            <Label Text="Popular"
+                FontSize="18"
+                />
+            <CollectionView
+                x:Name="popularMoviesCollection"
+                ItemsLayout="HorizontalList"
+                HeightRequest="200"
+                BackgroundColor="Transparent">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame BackgroundColor="Transparent"
+                   HasShadow="False"
+                   CornerRadius="10"
+                   Margin="0, 0, 15, 0"
+                   Padding="0"
+                   BorderColor="Transparent">
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnMovieTapped" CommandParameter="{Binding}" />
+                            </Frame.GestureRecognizers>
+                            
+                            <Image Source="{Binding FullPosterUrl}" Aspect="AspectFill" />
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+
+            <!--UpComing-->
+            <Label Text="Upcoming"
+                 FontSize="18"
+                 />
+            <CollectionView
+                 x:Name="upcommingMoviesCollection"
+                 ItemsLayout="HorizontalList"
+                 HeightRequest="200"
+                 BackgroundColor="Transparent">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame BackgroundColor="Transparent"
+                            HasShadow="False"
+                            CornerRadius="10"
+                            Margin="0, 0, 15, 0"
+                            Padding="0"
+                            BorderColor="Transparent">
+
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnMovieTapped" CommandParameter="{Binding}" />
+                            </Frame.GestureRecognizers>
+                            
+                            <Image Source="{Binding FullPosterUrl}" Aspect="AspectFill" />
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+
+            <!--Top Rated-->
+            <Label Text="Top Rated"
+                 FontSize="18"
+                 />
+            <CollectionView
+                 x:Name="topRatedMoviesCollection"
+                 ItemsLayout="HorizontalList"
+                 HeightRequest="200"
+                 BackgroundColor="Transparent">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame BackgroundColor="Transparent"
+                            HasShadow="False"
+                            CornerRadius="10"
+                            Margin="0, 0, 15, 0"
+                            Padding="0"
+                            BorderColor="Transparent">
+
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnMovieTapped" CommandParameter="{Binding}" />
+                            </Frame.GestureRecognizers>
+                            
+                            <Image Source="{Binding FullPosterUrl}" Aspect="AspectFill" />
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            
+            <!--Trending-->
+            <Label Text="Trending-This-Week"
+                 FontSize="18"
+                 />
+            <CollectionView
+                 x:Name="trendingMoviesCollection"
+                 ItemsLayout="HorizontalList"
+                 HeightRequest="200"
+                 BackgroundColor="Transparent">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame BackgroundColor="Transparent"
+                            HasShadow="False"
+                            CornerRadius="10"
+                            Margin="0, 0, 15, 0"
+                            Padding="0"
+                            BorderColor="Transparent">
+
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnMovieTapped" CommandParameter="{Binding}" />
+                            </Frame.GestureRecognizers>
+                            
+                            <Image Source="{Binding FullPosterUrl}" Aspect="AspectFill" />
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            
+            
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

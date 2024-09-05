@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyFirstMauiApp</name>
+    </assembly>
+    <members>
+        <member name="T:MyFirstMauiApp.ViewModel.DetailViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:MyFirstMauiApp.ViewModel.DetailViewModel.Text">
+            <inheritdoc cref="F:MyFirstMauiApp.ViewModel.DetailViewModel.text"/>
+        </member>
+        <member name="F:MyFirstMauiApp.ViewModel.DetailViewModel.goBackCommand">
+            <summary>The backing field for <see cref="P:MyFirstMauiApp.ViewModel.DetailViewModel.GoBackCommand"/>.</summary>
+        </member>
+        <member name="P:MyFirstMauiApp.ViewModel.DetailViewModel.GoBackCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MyFirstMauiApp.ViewModel.DetailViewModel.GoBack"/>.</summary>
+        </member>
+        <member name="T:MyFirstMauiApp.ViewModel.MainViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:MyFirstMauiApp.ViewModel.MainViewModel.Items">
+            <inheritdoc cref="F:MyFirstMauiApp.ViewModel.MainViewModel.items"/>
+        </member>
+        <member name="P:MyFirstMauiApp.ViewModel.MainViewModel.Text">
+            <inheritdoc cref="F:MyFirstMauiApp.ViewModel.MainViewModel.text"/>
+        </member>
+        <member name="F:MyFirstMauiApp.ViewModel.MainViewModel.addCommand">
+            <summary>The backing field for <see cref="P:MyFirstMauiApp.ViewModel.MainViewModel.AddCommand"/>.</summary>
+        </member>
+        <member name="P:MyFirstMauiApp.ViewModel.MainViewModel.AddCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:MyFirstMauiApp.ViewModel.MainViewModel.Add"/>.</summary>
+        </member>
+        <member name="F:MyFirstMauiApp.ViewModel.MainViewModel.deleteCommand">
+            <summary>The backing field for <see cref="P:MyFirstMauiApp.ViewModel.MainViewModel.DeleteCommand"/>.</summary>
+        </member>
+        <member name="P:MyFirstMauiApp.ViewModel.MainViewModel.DeleteCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:MyFirstMauiApp.ViewModel.MainViewModel.Delete(System.String)"/>.</summary>
+        </member>
+        <member name="F:MyFirstMauiApp.ViewModel.MainViewModel.tapCommand">
+            <summary>The backing field for <see cref="P:MyFirstMauiApp.ViewModel.MainViewModel.TapCommand"/>.</summary>
+        </member>
+        <member name="P:MyFirstMauiApp.ViewModel.MainViewModel.TapCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:MyFirstMauiApp.ViewModel.MainViewModel.Tap(System.String)"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Text">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Text" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Items">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Items" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Text">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Text" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Items">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Items" generated properties.</summary>
+        </member>
+    </members>
+</doc>
