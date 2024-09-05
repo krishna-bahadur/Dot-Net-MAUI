@@ -322,3 +322,4 @@ D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\refint\
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MoviesApp.pdb
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MoviesApp.genruntimeconfig.cache
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\MoviesApp.dll
+D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MoviesApp.sourcelink.json

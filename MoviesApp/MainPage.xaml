@@ -180,8 +180,20 @@
                     </DataTemplate>
                 </CollectionView.ItemTemplate>
             </CollectionView>
-            
-            
+            <Label HorizontalOptions="End">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Credit: " TextColor="#fff" />
+                        <Span Text="https://developer.themoviedb.org" TextColor="gray">
+                            <Span.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    Tapped="OnLinkTapped"
+                                    NumberOfTapsRequired="1" />
+                            </Span.GestureRecognizers>
+                        </Span>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
         </StackLayout>
     </ScrollView>
 </ContentPage>

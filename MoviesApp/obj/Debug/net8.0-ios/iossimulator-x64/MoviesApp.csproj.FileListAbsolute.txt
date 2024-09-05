@@ -334,4 +334,4 @@ D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-ios\iossimulator-x64\refint\MoviesA
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-ios\iossimulator-x64\MoviesApp.pdb
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-ios\iossimulator-x64\MoviesApp.genruntimeconfig.cache
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-ios\iossimulator-x64\ref\MoviesApp.dll
-D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
+D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-ios\iossimulator-x64\MoviesApp.sourcelink.json

@@ -41,5 +41,10 @@ public partial class MainPage : ContentPage
 
         await Navigation.PushAsync(new MovieDetailPage(movie));
     }
+
+    private async void OnLinkTapped(object sender, EventArgs e)
+    {
+        await Launcher.OpenAsync(new Uri("https://developer.themoviedb.org"));
+    }
 }
 
