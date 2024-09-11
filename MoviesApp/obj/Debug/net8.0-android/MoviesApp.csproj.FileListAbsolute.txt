@@ -218,7 +218,6 @@ D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\pt-BR\Micros
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\pt\Microsoft.Maui.Controls.resources.dll
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\ro\Microsoft.Maui.Controls.resources.dll
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\ru\Microsoft.Maui.Controls.resources.dll
-D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\Sharpnado.HorusSkeleton.Maui.dll
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\sk\Microsoft.Maui.Controls.resources.dll
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\sv\Microsoft.Maui.Controls.resources.dll
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\System.AppContext.dll
@@ -301,7 +300,6 @@ D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\System.Net.W
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\System.Numerics.dll
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\System.Numerics.Vectors.dll
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\System.ObjectModel.dll
-D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\System.Private.DataContractSerialization.dll
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\System.Private.Uri.dll
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\System.Private.Xml.dll
@@ -523,7 +521,6 @@ D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\Xamarin.Andr
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\Xamarin.AndroidX.Window.Extensions.Core.Core.dll
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\Xamarin.AndroidX.Window.Extensions.Core.Core.pdb
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\Xamarin.AndroidX.Window.pdb
-D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\Xamarin.Forms.Skeleton.dll
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\Xamarin.Google.Android.Material.dll
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\Xamarin.Google.Android.Material.pdb
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\Xamarin.Google.Crypto.Tink.Android.dll
@@ -1070,3 +1067,4 @@ D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\stamp\_ConvertResourcesCase
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll

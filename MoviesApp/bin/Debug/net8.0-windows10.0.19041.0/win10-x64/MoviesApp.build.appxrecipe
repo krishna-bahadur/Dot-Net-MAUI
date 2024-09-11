@@ -61,212 +61,212 @@
     <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\series5.scale-100.jpg">
-      <PackagePath>series5.scale-100.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\series4.scale-100.jpg">
-      <PackagePath>series4.scale-100.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\new5.scale-100.jpg">
-      <PackagePath>new5.scale-100.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\new4.scale-100.jpg">
-      <PackagePath>new4.scale-100.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\new2.scale-100.jpg">
-      <PackagePath>new2.scale-100.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\featured5.scale-100.jpg">
-      <PackagePath>featured5.scale-100.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\featured3.scale-100.jpg">
-      <PackagePath>featured3.scale-100.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
-      <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
-      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
-      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
-      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+      <PackagePath>appicon.ico</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
-      <PackagePath>appiconWideTile.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
-      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
-      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
-      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
-      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
-      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
-      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
-      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
-      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
-      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
-      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
-      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
-      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
-      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
-      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
-      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
-      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
-      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
-      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
-      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+      <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
-      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
-      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
-      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
-      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
-      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
-      <PackagePath>appiconLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
-      <PackagePath>appiconLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
-      <PackagePath>appiconLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
-      <PackagePath>appiconLogo.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
-      <PackagePath>appicon.ico</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+      <PackagePath>appiconLogo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\series3.scale-100.jpg">
-      <PackagePath>series3.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+      <PackagePath>appiconLogo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\series2.scale-100.jpg">
-      <PackagePath>series2.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+      <PackagePath>appiconLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\series1.scale-100.jpg">
-      <PackagePath>series1.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+      <PackagePath>appiconLogo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\popular6.scale-100.jpg">
-      <PackagePath>popular6.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\popular5.scale-100.jpg">
-      <PackagePath>popular5.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\featured6.scale-100.jpg">
-      <PackagePath>featured6.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\featured2.scale-100.jpg">
-      <PackagePath>featured2.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\new1.scale-100.jpg">
-      <PackagePath>new1.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+      <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\featured1.scale-100.jpg">
       <PackagePath>featured1.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\popular4.scale-100.jpg">
-      <PackagePath>popular4.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\featured2.scale-100.jpg">
+      <PackagePath>featured2.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\popular3.scale-100.jpg">
-      <PackagePath>popular3.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\featured3.scale-100.jpg">
+      <PackagePath>featured3.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\popular2.scale-100.jpg">
-      <PackagePath>popular2.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\featured4.scale-100.jpg">
+      <PackagePath>featured4.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\popular1.scale-100.jpg">
-      <PackagePath>popular1.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\featured5.scale-100.jpg">
+      <PackagePath>featured5.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\new6.scale-100.jpg">
-      <PackagePath>new6.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\featured6.scale-100.jpg">
+      <PackagePath>featured6.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\new1.scale-100.jpg">
+      <PackagePath>new1.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\new2.scale-100.jpg">
+      <PackagePath>new2.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\new3.scale-100.jpg">
       <PackagePath>new3.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\featured4.scale-100.jpg">
-      <PackagePath>featured4.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\new4.scale-100.jpg">
+      <PackagePath>new4.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\new5.scale-100.jpg">
+      <PackagePath>new5.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\new6.scale-100.jpg">
+      <PackagePath>new6.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\popular1.scale-100.jpg">
+      <PackagePath>popular1.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\popular2.scale-100.jpg">
+      <PackagePath>popular2.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\popular3.scale-100.jpg">
+      <PackagePath>popular3.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\popular4.scale-100.jpg">
+      <PackagePath>popular4.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\popular5.scale-100.jpg">
+      <PackagePath>popular5.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\popular6.scale-100.jpg">
+      <PackagePath>popular6.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\series1.scale-100.jpg">
+      <PackagePath>series1.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\series2.scale-100.jpg">
+      <PackagePath>series2.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\series3.scale-100.jpg">
+      <PackagePath>series3.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\series4.scale-100.jpg">
+      <PackagePath>series4.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\series5.scale-100.jpg">
+      <PackagePath>series5.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MoviesApp.deps.json">
       <PackagePath>MoviesApp.deps.json</PackagePath>
@@ -385,14 +385,8 @@
     <AppxPackagedFile Include="C:\Users\DELL\.nuget\packages\newtonsoft.json\13.0.3\lib\net6.0\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DELL\.nuget\packages\sharpnado.horusskeleton.maui\2.0.0\lib\net6.0\Sharpnado.HorusSkeleton.Maui.dll">
-      <PackagePath>Sharpnado.HorusSkeleton.Maui.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\.nuget\packages\system.speech\8.0.0\runtimes\win\lib\net8.0\System.Speech.dll">
       <PackagePath>System.Speech.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\DELL\.nuget\packages\xamarin.forms.skeleton\2.0.0\lib\netstandard1.0\Xamarin.Forms.Skeleton.dll">
-      <PackagePath>Xamarin.Forms.Skeleton.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>

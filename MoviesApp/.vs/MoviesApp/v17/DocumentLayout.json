@@ -3,8 +3,31 @@
   "WorkspaceRootPath": "D:\\.Net\\.NET MAUI\\MoviesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|d:\\.net\\.net maui\\moviesapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|d:\\.net\\.net maui\\moviesapp\\moviedetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|solutionrelative:moviedetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|d:\\.net\\.net maui\\moviesapp\\moviedetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|solutionrelative:moviedetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|d:\\.net\\.net maui\\moviesapp\\viewmodels\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|solutionrelative:viewmodels\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|d:\\.net\\.net maui\\moviesapp\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|solutionrelative:services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Common.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|d:\\.net\\.net maui\\moviesapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|d:\\.net\\.net maui\\moviesapp\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|d:\\.net\\.net maui\\moviesapp\\moviesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -15,23 +38,8 @@
       "RelativeMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|d:\\.net\\.net maui\\moviesapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|d:\\.net\\.net maui\\moviesapp\\moviedetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|solutionrelative:moviedetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Common.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|d:\\.net\\.net maui\\moviesapp\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|solutionrelative:platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|d:\\.net\\.net maui\\moviesapp\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
-      "RelativeMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+      "AbsoluteMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|d:\\.net\\.net maui\\moviesapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63082B2-5C2A-4F76-A730-905FF542E4E4}|MoviesApp.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,7 +57,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "MovieVM.cs",
+              "DocumentMoniker": "D:\\.Net\\.NET MAUI\\MoviesApp\\ViewModels\\MovieVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MovieVM.cs",
+              "ToolTip": "D:\\.Net\\.NET MAUI\\MoviesApp\\ViewModels\\MovieVM.cs",
+              "RelativeToolTip": "ViewModels\\MovieVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:59:14.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieDetailPage.xaml",
+              "DocumentMoniker": "D:\\.Net\\.NET MAUI\\MoviesApp\\MovieDetailPage.xaml",
+              "RelativeDocumentMoniker": "MovieDetailPage.xaml",
+              "ToolTip": "D:\\.Net\\.NET MAUI\\MoviesApp\\MovieDetailPage.xaml",
+              "RelativeToolTip": "MovieDetailPage.xaml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-10T10:30:26.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDetailPage.xaml.cs",
+              "DocumentMoniker": "D:\\.Net\\.NET MAUI\\MoviesApp\\MovieDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "MovieDetailPage.xaml.cs",
+              "ToolTip": "D:\\.Net\\.NET MAUI\\MoviesApp\\MovieDetailPage.xaml.cs",
+              "RelativeToolTip": "MovieDetailPage.xaml.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAIwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:32:09.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\.Net\\.NET MAUI\\MoviesApp\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Services\\MovieService.cs",
+              "ToolTip": "D:\\.Net\\.NET MAUI\\MoviesApp\\Services\\MovieService.cs",
+              "RelativeToolTip": "Services\\MovieService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwCQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:22:34.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Xamarin.Android.Common.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Common.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Common.targets",
@@ -60,26 +120,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MoviesApp",
+              "DocumentIndex": 7,
+              "Title": "MoviesApp.csproj",
               "DocumentMoniker": "D:\\.Net\\.NET MAUI\\MoviesApp\\MoviesApp.csproj",
               "RelativeDocumentMoniker": "MoviesApp.csproj",
               "ToolTip": "D:\\.Net\\.NET MAUI\\MoviesApp\\MoviesApp.csproj",
               "RelativeToolTip": "MoviesApp.csproj",
-              "ViewState": "AQIAADIAAAAAAAAAAAAUwEAAAABBAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-09-10T10:38:04.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "D:\\.Net\\.NET MAUI\\MoviesApp\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiProgram.cs",
               "ToolTip": "D:\\.Net\\.NET MAUI\\MoviesApp\\MauiProgram.cs",
               "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T10:34:24.615Z",
               "EditorCaption": ""
@@ -87,19 +147,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MainActivity.cs",
-              "DocumentMoniker": "D:\\.Net\\.NET MAUI\\MoviesApp\\Platforms\\Android\\MainActivity.cs",
-              "RelativeDocumentMoniker": "Platforms\\Android\\MainActivity.cs",
-              "ToolTip": "D:\\.Net\\.NET MAUI\\MoviesApp\\Platforms\\Android\\MainActivity.cs",
-              "RelativeToolTip": "Platforms\\Android\\MainActivity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T10:33:45.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "AndroidManifest.xml",
               "DocumentMoniker": "D:\\.Net\\.NET MAUI\\MoviesApp\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
@@ -110,39 +157,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MovieDetailPage.xaml",
-              "DocumentMoniker": "D:\\.Net\\.NET MAUI\\MoviesApp\\MovieDetailPage.xaml",
-              "RelativeDocumentMoniker": "MovieDetailPage.xaml",
-              "ToolTip": "D:\\.Net\\.NET MAUI\\MoviesApp\\MovieDetailPage.xaml",
-              "RelativeToolTip": "MovieDetailPage.xaml",
-              "ViewState": "AQIAABwAAAAAAAAAAAAawCcAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-10T10:30:26.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "D:\\.Net\\.NET MAUI\\MoviesApp\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
               "ToolTip": "D:\\.Net\\.NET MAUI\\MoviesApp\\MainPage.xaml.cs",
               "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAmwCkAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwv0YAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T08:32:30.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\.Net\\.NET MAUI\\MoviesApp\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
               "ToolTip": "D:\\.Net\\.NET MAUI\\MoviesApp\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAAdAAAA",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAqwB0BAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-10T08:30:19.363Z",
               "EditorCaption": ""

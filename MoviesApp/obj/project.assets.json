@@ -493,15 +493,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "Xamarin.Android.Glide/4.15.1.2": {
         "type": "package",
         "dependencies": {
@@ -2035,19 +2026,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.AndroidX.Window.Extensions.Core.Core.targets": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
         }
       },
       "Xamarin.Google.Android.Material/1.9.0.2": {
@@ -2770,15 +2748,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "Xamarin.Android.Glide/4.15.1.2": {
         "type": "package",
         "dependencies": {
@@ -4312,19 +4281,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.AndroidX.Window.Extensions.Core.Core.targets": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
         }
       },
       "Xamarin.Google.Android.Material/1.9.0.2": {
@@ -5047,15 +5003,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "Xamarin.Android.Glide/4.15.1.2": {
         "type": "package",
         "dependencies": {
@@ -6589,19 +6536,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.AndroidX.Window.Extensions.Core.Core.targets": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
         }
       },
       "Xamarin.Google.Android.Material/1.9.0.2": {
@@ -7324,15 +7258,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "Xamarin.Android.Glide/4.15.1.2": {
         "type": "package",
         "dependencies": {
@@ -8866,19 +8791,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.AndroidX.Window.Extensions.Core.Core.targets": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
         }
       },
       "Xamarin.Google.Android.Material/1.9.0.2": {
@@ -9601,15 +9513,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "Xamarin.Android.Glide/4.15.1.2": {
         "type": "package",
         "dependencies": {
@@ -11143,19 +11046,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.AndroidX.Window.Extensions.Core.Core.targets": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
         }
       },
       "Xamarin.Google.Android.Material/1.9.0.2": {
@@ -11878,15 +11768,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "Xamarin.Android.Glide/4.15.1.2": {
         "type": "package",
         "dependencies": {
@@ -13420,19 +13301,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.AndroidX.Window.Extensions.Core.Core.targets": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
         }
       },
       "Xamarin.Google.Android.Material/1.9.0.2": {
@@ -14155,15 +14023,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "Xamarin.Android.Glide/4.15.1.2": {
         "type": "package",
         "dependencies": {
@@ -15697,19 +15556,6 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.AndroidX.Window.Extensions.Core.Core.targets": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
         }
       },
       "Xamarin.Google.Android.Material/1.9.0.2": {
@@ -16432,15 +16278,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "Xamarin.Android.Glide/4.15.1.2": {
         "type": "package",
         "dependencies": {
@@ -17976,19 +17813,6 @@
           "buildTransitive/net6.0-android31.0/Xamarin.AndroidX.Window.Extensions.Core.Core.targets": {}
         }
       },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        }
-      },
       "Xamarin.Google.Android.Material/1.9.0.2": {
         "type": "package",
         "dependencies": {
@@ -18684,28 +18508,6 @@
             "related": ".xml"
           }
         }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        }
       }
     },
     "net8.0-ios17.0/android-arm": {
@@ -19172,28 +18974,6 @@
         },
         "runtime": {
           "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
             "related": ".xml"
           }
         }
@@ -19666,28 +19446,6 @@
             "related": ".xml"
           }
         }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        }
       }
     },
     "net8.0-ios17.0/android-x64": {
@@ -20154,28 +19912,6 @@
         },
         "runtime": {
           "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
             "related": ".xml"
           }
         }
@@ -20648,28 +20384,6 @@
             "related": ".xml"
           }
         }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        }
       }
     },
     "net8.0-ios17.0/iossimulator-x64": {
@@ -21136,28 +20850,6 @@
         },
         "runtime": {
           "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
             "related": ".xml"
           }
         }
@@ -21630,28 +21322,6 @@
             "related": ".xml"
           }
         }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        }
       }
     },
     "net8.0-ios17.0/win10-x64": {
@@ -22118,28 +21788,6 @@
         },
         "runtime": {
           "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
             "related": ".xml"
           }
         }
@@ -22612,28 +22260,6 @@
             "related": ".xml"
           }
         }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        }
       }
     },
     "net8.0-maccatalyst17.0/android-arm": {
@@ -23100,28 +22726,6 @@
         },
         "runtime": {
           "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
             "related": ".xml"
           }
         }
@@ -23594,28 +23198,6 @@
             "related": ".xml"
           }
         }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        }
       }
     },
     "net8.0-maccatalyst17.0/android-x64": {
@@ -24082,28 +23664,6 @@
         },
         "runtime": {
           "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
             "related": ".xml"
           }
         }
@@ -24576,28 +24136,6 @@
             "related": ".xml"
           }
         }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        }
       }
     },
     "net8.0-maccatalyst17.0/iossimulator-x64": {
@@ -25064,28 +24602,6 @@
         },
         "runtime": {
           "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
             "related": ".xml"
           }
         }
@@ -25558,28 +25074,6 @@
             "related": ".xml"
           }
         }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        }
       }
     },
     "net8.0-maccatalyst17.0/win10-x64": {
@@ -26046,28 +25540,6 @@
         },
         "runtime": {
           "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
             "related": ".xml"
           }
         }
@@ -26711,15 +26183,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "System.Speech/8.0.0": {
         "type": "package",
         "compile": {
@@ -26735,19 +26198,6 @@
           "runtimes/win/lib/net8.0/System.Speech.dll": {
             "assetType": "runtime",
             "rid": "win"
-          }
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
           }
         }
       }
@@ -27350,15 +26800,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "System.Speech/8.0.0": {
         "type": "package",
         "compile": {
@@ -27369,19 +26810,6 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
         }
       }
     },
@@ -27983,15 +27411,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "System.Speech/8.0.0": {
         "type": "package",
         "compile": {
@@ -28002,19 +27421,6 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
         }
       }
     },
@@ -28616,15 +28022,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "System.Speech/8.0.0": {
         "type": "package",
         "compile": {
@@ -28635,19 +28032,6 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
         }
       }
     },
@@ -29249,15 +28633,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "System.Speech/8.0.0": {
         "type": "package",
         "compile": {
@@ -29268,19 +28643,6 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
         }
       }
     },
@@ -29882,15 +29244,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "System.Speech/8.0.0": {
         "type": "package",
         "compile": {
@@ -29901,19 +29254,6 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
         }
       }
     },
@@ -30515,15 +29855,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "System.Speech/8.0.0": {
         "type": "package",
         "compile": {
@@ -30534,19 +29865,6 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
         }
       }
     },
@@ -31154,15 +30472,6 @@
           }
         }
       },
-      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {}
-        }
-      },
       "System.Speech/8.0.0": {
         "type": "package",
         "compile": {
@@ -31173,19 +30482,6 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
-        }
-      },
-      "Xamarin.Forms.Skeleton/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
-            "related": ".xml"
-          }
         }
       }
     }
@@ -33418,18 +32714,6 @@
         "packageIcon.png"
       ]
     },
-    "Sharpnado.HorusSkeleton.Maui/2.0.0": {
-      "sha512": "rGJ7UZBw4CfpzEHbvmH/sKIzu+4uxzYUtQZ4qzi8w9F8APyCV7vHj/8pnmTtorED4jzpVzW5ef9pE7MANOBVKQ==",
-      "type": "package",
-      "path": "sharpnado.horusskeleton.maui/2.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll",
-        "sharpnado.horusskeleton.maui.2.0.0.nupkg.sha512",
-        "sharpnado.horusskeleton.maui.nuspec"
-      ]
-    },
     "System.Speech/8.0.0": {
       "sha512": "CNuiA6vb95Oe5PRjClZEBiaju31vwB8OIeCgeSBXyZL6+MS4RVVB2X/C11z0xCkooHE3Vy91nM2z76emIzR+sg==",
       "type": "package",
@@ -35237,19 +34521,6 @@
         "xamarin.androidx.window.extensions.core.core.nuspec"
       ]
     },
-    "Xamarin.Forms.Skeleton/2.0.0": {
-      "sha512": "ywhbipDN3okMhi1nPnoqf/uyrryGNGf9k4aXkkSCes5TAmT6EzRCyUGODjzCh4eGb+kUigdchAqlAMiGJXgw2w==",
-      "type": "package",
-      "path": "xamarin.forms.skeleton/2.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll",
-        "lib/netstandard1.0/Xamarin.Forms.Skeleton.xml",
-        "xamarin.forms.skeleton.2.0.0.nupkg.sha512",
-        "xamarin.forms.skeleton.nuspec"
-      ]
-    },
     "Xamarin.Google.Android.Material/1.9.0.2": {
       "sha512": "sLmA5Kff8m4CjjUqYc8SZKjXpOF9xIAFJc2eNNfd8T0NY9bb6tbl6YL2rjUxCNI1qfs4qHaDHm/cDrEwI5DGfQ==",
       "type": "package",
@@ -35514,9 +34785,7 @@
       "Microsoft.Maui.Controls >= 8.0.82",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.82",
       "Microsoft.NET.ILLink.Tasks >= 8.0.0",
-      "Newtonsoft.Json >= 13.0.3",
-      "Sharpnado.HorusSkeleton.Maui >= 2.0.0",
-      "Xamarin.Forms.Skeleton >= 2.0.0"
+      "Newtonsoft.Json >= 13.0.3"
     ],
     "net8.0-ios17.0": [
       "CommunityToolkit.Maui >= 8.0.1",
@@ -35524,9 +34793,7 @@
       "Microsoft.Maui.Controls >= 8.0.82",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.82",
       "Microsoft.NET.ILLink.Tasks >= 8.0.0",
-      "Newtonsoft.Json >= 13.0.3",
-      "Sharpnado.HorusSkeleton.Maui >= 2.0.0",
-      "Xamarin.Forms.Skeleton >= 2.0.0"
+      "Newtonsoft.Json >= 13.0.3"
     ],
     "net8.0-maccatalyst17.0": [
       "CommunityToolkit.Maui >= 8.0.1",
@@ -35534,18 +34801,14 @@
       "Microsoft.Maui.Controls >= 8.0.82",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.82",
       "Microsoft.NET.ILLink.Tasks >= 8.0.0",
-      "Newtonsoft.Json >= 13.0.3",
-      "Sharpnado.HorusSkeleton.Maui >= 2.0.0",
-      "Xamarin.Forms.Skeleton >= 2.0.0"
+      "Newtonsoft.Json >= 13.0.3"
     ],
     "net8.0-windows10.0.19041": [
       "CommunityToolkit.Maui >= 8.0.1",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.82",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.82",
-      "Newtonsoft.Json >= 13.0.3",
-      "Sharpnado.HorusSkeleton.Maui >= 2.0.0",
-      "Xamarin.Forms.Skeleton >= 2.0.0"
+      "Newtonsoft.Json >= 13.0.3"
     ]
   },
   "packageFolders": {
@@ -35639,14 +34902,6 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.3, )"
-          },
-          "Sharpnado.HorusSkeleton.Maui": {
-            "target": "Package",
-            "version": "[2.0.0, )"
-          },
-          "Xamarin.Forms.Skeleton": {
-            "target": "Package",
-            "version": "[2.0.0, )"
           }
         },
         "imports": [
@@ -35698,14 +34953,6 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.3, )"
-          },
-          "Sharpnado.HorusSkeleton.Maui": {
-            "target": "Package",
-            "version": "[2.0.0, )"
-          },
-          "Xamarin.Forms.Skeleton": {
-            "target": "Package",
-            "version": "[2.0.0, )"
           }
         },
         "imports": [
@@ -35757,14 +35004,6 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.3, )"
-          },
-          "Sharpnado.HorusSkeleton.Maui": {
-            "target": "Package",
-            "version": "[2.0.0, )"
-          },
-          "Xamarin.Forms.Skeleton": {
-            "target": "Package",
-            "version": "[2.0.0, )"
           }
         },
         "imports": [
@@ -35811,14 +35050,6 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.3, )"
-          },
-          "Sharpnado.HorusSkeleton.Maui": {
-            "target": "Package",
-            "version": "[2.0.0, )"
-          },
-          "Xamarin.Forms.Skeleton": {
-            "target": "Package",
-            "version": "[2.0.0, )"
           }
         },
         "imports": [

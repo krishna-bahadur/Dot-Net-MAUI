@@ -19,8 +19,6 @@ D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microso
 D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
 D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
 D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Newtonsoft.Json.dll
-D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Sharpnado.HorusSkeleton.Maui.dll
-D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Xamarin.Forms.Skeleton.dll
 D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
 D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
 D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll

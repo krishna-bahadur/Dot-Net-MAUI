@@ -42,9 +42,7 @@ D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Micro
 D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
 D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
 D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
-D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Sharpnado.HorusSkeleton.Maui.dll
 D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Speech.dll
-D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Xamarin.Forms.Skeleton.dll
 D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
 D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
 D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll

@@ -91,14 +91,6 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
-            },
-            "Sharpnado.HorusSkeleton.Maui": {
-              "target": "Package",
-              "version": "[2.0.0, )"
-            },
-            "Xamarin.Forms.Skeleton": {
-              "target": "Package",
-              "version": "[2.0.0, )"
             }
           },
           "imports": [
@@ -150,14 +142,6 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
-            },
-            "Sharpnado.HorusSkeleton.Maui": {
-              "target": "Package",
-              "version": "[2.0.0, )"
-            },
-            "Xamarin.Forms.Skeleton": {
-              "target": "Package",
-              "version": "[2.0.0, )"
             }
           },
           "imports": [
@@ -209,14 +193,6 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
-            },
-            "Sharpnado.HorusSkeleton.Maui": {
-              "target": "Package",
-              "version": "[2.0.0, )"
-            },
-            "Xamarin.Forms.Skeleton": {
-              "target": "Package",
-              "version": "[2.0.0, )"
             }
           },
           "imports": [
@@ -263,14 +239,6 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
-            },
-            "Sharpnado.HorusSkeleton.Maui": {
-              "target": "Package",
-              "version": "[2.0.0, )"
-            },
-            "Xamarin.Forms.Skeleton": {
-              "target": "Package",
-              "version": "[2.0.0, )"
             }
           },
           "imports": [

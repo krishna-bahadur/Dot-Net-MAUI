@@ -1,28 +1,47 @@
 using MoviesApp.Services;
 using MoviesApp.ViewModels;
+using System.ComponentModel;
+using System.Runtime.CompilerServices;
 
 namespace MoviesApp;
 
-public partial class MovieDetailPage : ContentPage
+public partial class MovieDetailPage : ContentPage, INotifyPropertyChanged
 {
     private readonly MovieService _movieService;
     private int _movieId;
-    public bool IsLoading { get; set; } = true;
+    private bool _isLoading;
+
+    public bool IsLoading
+    {
+        get => _isLoading;
+        set
+        {
+            if(_isLoading != value)
+            {
+                _isLoading =value;
+                OnPropertyChanged();
+                OnPropertyChanged(nameof(IsNotLoading));
+            }
+        }
+    }
+    public bool IsNotLoading => !_isLoading;
+
     public MovieDetailPage(MovieVM movie)
 	{
 		InitializeComponent();
         NavigationPage.SetHasNavigationBar(this, false);
         _movieService = new MovieService();
         _movieId = movie.Id;
+        BindingContext = this;
         LoadMovieDetails();
     }
 
     private async void LoadMovieDetails()
     {
+        IsLoading = true;
+
         try
         {
-            IsLoading = true; // Show ActivityIndicator
-
             var movieDetail = await _movieService.GetMovieDetailAsync(_movieId);
 
             //Change Release date
@@ -46,4 +65,13 @@ public partial class MovieDetailPage : ContentPage
             IsLoading = false;
         }
     }
+
+    public event PropertyChangedEventHandler? PropertyChanged;
+
+    protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
+    {
+        PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+    }
+
+
 }

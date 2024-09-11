@@ -1,16 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
-             xmlns:sk="clr-namespace:Xamarin.Forms.Skeleton;assembly=Xamarin.Forms.Skeleton"
              x:Class="MoviesApp.MovieDetailPage"
              BackgroundColor="#0A0A0A">
 
-    <!--Change Statubar color-->
+    <!-- Status Bar Configuration -->
     <ContentPage.Behaviors>
         <toolkit:StatusBarBehavior StatusBarColor="#0A0A0A" StatusBarStyle="LightContent" />
     </ContentPage.Behaviors>
 
-    <!--Text color for all Labels-->
+    <!-- Global Styles -->
     <ContentPage.Resources>
         <ResourceDictionary>
             <Style TargetType="Label">
@@ -19,111 +19,111 @@
         </ResourceDictionary>
     </ContentPage.Resources>
 
-    <!--Page Content-->
+    <!-- Page Content -->
+    <ContentPage.Content>
+        <Grid>
+            <!-- Loading Spinner -->
+            <ActivityIndicator x:Name="LoadingIndicator"
+                           IsRunning="{Binding IsLoading}"
+                           IsVisible="{Binding IsLoading}"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center"
+                           Color="#fff" />
 
-    <ScrollView Orientation="Vertical">
-        <StackLayout Padding="10" Spacing="20">
+            <!-- ScrollView for Content -->
+            <ScrollView Orientation="Vertical" IsVisible="{Binding IsNotLoading}">
+                <StackLayout Padding="10" Spacing="20">
 
-            <!-- Movie Poster -->
-            <!--<toolkit:Skeleton  IsBusy="{Binding IsLoading}">-->
-                <Image Source="{Binding FullPosterUrl}"
-                       Aspect="AspectFit"
-                       HorizontalOptions="FillAndExpand"
-                       VerticalOptions="Start"/>
-            <!--</toolkit:Skeleton>-->
+                    <!-- Movie Poster -->
+                    <Image Source="{Binding FullPosterUrl}"
+                           Aspect="AspectFit"
+                           HorizontalOptions="FillAndExpand"
+                           VerticalOptions="Start"/>
 
-            <Frame BackgroundColor="Transparent"
-               HasShadow="False"
-               CornerRadius="5"
-               Padding="0"
-               HorizontalOptions="Start"
-               sk:Skeleton.IsBusy="{Binding IsBusy}"
-               sk:Skeleton.BackgroundColor="#c6c6c5">
-                <Label Text="Hello World"
-					TextColor="#000000"
-					FontSize="20"
-					FontAttributes="Bold"
-					HorizontalOptions="Start"/>
-            </Frame>
 
-            <!-- Details Grid -->
-            <Grid ColumnDefinitions="*, *, *" Margin="20, 0, 30, 0 ">
-                <Label Grid.Column="0"
-                       Text="{Binding Runtime, StringFormat='{0} min'}"
-                       FontSize="14"
-                       HorizontalOptions="Center" />
-                <Label Grid.Column="1"
-                       Text="{Binding ReleaseDate}"
-                       FontSize="14"
-                        HorizontalOptions="Center" />
-                <Label Grid.Column="2"
-                   Text="{Binding Rating, StringFormat='{0:F1}'}"
-                   FontSize="14"
-                    HorizontalOptions="Center" />
-            </Grid>
+                    <!-- Movie Details -->
+                    <Grid ColumnDefinitions="*, *, *" Margin="20, 0, 30, 0">
+                        <Label Grid.Column="0"
+                               Text="{Binding Runtime, StringFormat='{0} min'}"
+                               FontSize="14"
+                               HorizontalOptions="Center" />
+                        <Label Grid.Column="1"
+                               Text="{Binding ReleaseDate}"
+                               FontSize="14"
+                               HorizontalOptions="Center" />
+                        <Label Grid.Column="2"
+                               Text="{Binding Rating, StringFormat='{0:F1}'}"
+                               FontSize="14"
+                               HorizontalOptions="Center" />
+                    </Grid>
 
-            <!-- Overview -->
-            <Label Text="{Binding Overview}"
-                   FontSize="18"
-                   Padding="10"
-                   TextColor="Gray"
-                   />
+                    <!-- Overview -->
+                    <Label Text="{Binding Overview}"
+                           FontSize="18"
+                           Padding="10"
+                           TextColor="Gray"/>
 
-            <!-- Genres Collection -->
-            <CollectionView ItemsSource="{Binding Genres}" HorizontalOptions="Center">
-                <CollectionView.ItemsLayout>
-                    <LinearItemsLayout Orientation="Horizontal" />
-                </CollectionView.ItemsLayout>
-                <CollectionView.ItemTemplate>
-                    <DataTemplate>
-                        <Frame BorderColor="Gray"
-                               BackgroundColor="Transparent"
-                               CornerRadius="25"
-                               Padding="10"
-                               Margin="5"
-                               HasShadow="False"
-                               >
-                            <Label Text="{Binding Name}"
-                                   FontSize="14"
-                                   TextColor="#fff"
-                                   HorizontalOptions="Center"
-                                   VerticalOptions="Center"/>
-                        </Frame>
-                    </DataTemplate>
-                </CollectionView.ItemTemplate>
-            </CollectionView>
+                    <!-- Genres -->
+                    <CollectionView ItemsSource="{Binding Genres}" HorizontalOptions="Center">
+                        <CollectionView.ItemsLayout>
+                            <LinearItemsLayout Orientation="Horizontal" />
+                        </CollectionView.ItemsLayout>
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <Frame BorderColor="Gray"
+                                       BackgroundColor="Transparent"
+                                       CornerRadius="25"
+                                       Padding="10"
+                                       Margin="5"
+                                       HasShadow="False">
+                                    <Label Text="{Binding Name}"
+                                           FontSize="14"
+                                           TextColor="#fff"
+                                           HorizontalOptions="Center"
+                                           VerticalOptions="Center"/>
+                                </Frame>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
 
-            <!-- Budget and Revenue -->
-            <Label Text="{Binding Budget, StringFormat='Budget: {0:C}'}"
-                FontSize="14"
-                Margin="10, 0"
-             />
-            <Label Text="{Binding Revenue, StringFormat='Revenue: ${0:C}'}"
-                FontSize="14"
-                Margin="10, 0"
-             />
+                    <!-- Budget and Revenue -->
+                    <Label Text="{Binding Budget, StringFormat='Budget: {0:C}'}"
+                           FontSize="14"
+                           Margin="10, 0"/>
+                    <Label Text="{Binding Revenue, StringFormat='Revenue: {0:C}'}"
+                           FontSize="14"
+                           Margin="10, 0"/>
 
-            <!-- Cast Label -->
-            <Label Text="Cast"
-                   FontSize="18"
-                   FontAttributes="Bold"/>
+                    <!-- Cast Section -->
+                    <Label Text="Cast"
+                           FontSize="18"
+                           FontAttributes="Bold"/>
 
-            <!-- Cast Collection -->
-            <CollectionView ItemsSource="{Binding Casts}" ItemsLayout="HorizontalList">
-                <CollectionView.ItemTemplate>
-                    <DataTemplate>
-                        <StackLayout Padding="10" VerticalOptions="Center">
-                            <Frame HasShadow="False" VerticalOptions="Center" CornerRadius="50" Padding="0" HeightRequest="100" WidthRequest="100">
-                                <Image Source="{Binding FullProfilePathUrl}" Aspect="AspectFill" HeightRequest="100" WidthRequest="100"/>
-                            </Frame>
-                            <Label Text="{Binding Name}"
-                                   FontSize="14"
-                                   HorizontalTextAlignment="Center"/>
-                        </StackLayout>
-
-                    </DataTemplate>
-                </CollectionView.ItemTemplate>
-            </CollectionView>
-        </StackLayout>
-    </ScrollView>
+                    <!-- Cast Collection -->
+                    <CollectionView ItemsSource="{Binding Casts}" ItemsLayout="HorizontalList">
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <StackLayout Padding="10" VerticalOptions="Center">
+                                    <Frame HasShadow="False"
+                                           VerticalOptions="Center"
+                                           CornerRadius="50"
+                                           Padding="0"
+                                           HeightRequest="100"
+                                           WidthRequest="100">
+                                        <Image Source="{Binding FullProfilePathUrl}"
+                                               Aspect="AspectFill"
+                                               HeightRequest="100"
+                                               WidthRequest="100"/>
+                                    </Frame>
+                                    <Label Text="{Binding Name}"
+                                           FontSize="14"
+                                           HorizontalTextAlignment="Center"/>
+                                </StackLayout>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
+                </StackLayout>
+            </ScrollView>
+        </Grid>
+    </ContentPage.Content>
 </ContentPage>
