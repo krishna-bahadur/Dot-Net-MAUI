@@ -16,6 +16,17 @@ public partial class MainPage : ContentPage
 
     private async void LoadMovies()
     {
+        //Show skeleton views
+        nowPlayingSkeletonView.IsVisible=true;
+        nowPlayingMoviesCollection.IsVisible = false;
+        
+        popularSkeletonView.IsVisible=true;
+        popularMoviesCollection.IsVisible = false;
+        
+        upcomingSkeletonView.IsVisible=true;
+        upcommingMoviesCollection.IsVisible = false;
+
+
         var nowPlaying = await _movieService.GetNowPlayingMoviesAsync();
         var popular = await _movieService.GetPopularMoviesAsync();
         var topRated = await _movieService.GetTopRatedMoviesAsync();
@@ -23,10 +34,19 @@ public partial class MainPage : ContentPage
         var trending = await _movieService.GetTrendingMoviesAsync();
 
         nowPlayingMoviesCollection.ItemsSource = nowPlaying;
-        popularMoviesCollection.ItemsSource = popular;
-        topRatedMoviesCollection.ItemsSource = topRated;
+        nowPlayingSkeletonView.IsVisible = false;
+        nowPlayingMoviesCollection.IsVisible = true;
+
         upcommingMoviesCollection.ItemsSource = upcoming;
         trendingMoviesCollection.ItemsSource = trending;
+
+        popularMoviesCollection.ItemsSource = popular;
+        popularSkeletonView.IsVisible = false;
+        popularMoviesCollection.IsVisible = true;
+
+        topRatedMoviesCollection.ItemsSource = topRated;
+        upcomingSkeletonView.IsVisible = false;
+        upcommingMoviesCollection.IsVisible = true;
     }
 
     private async void OnMovieTapped(object sender, EventArgs e)

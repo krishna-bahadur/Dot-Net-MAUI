@@ -9,11 +9,13 @@
     ".NETCoreApp,Version=v8.0/win10-x64": {
       "MoviesApp/1.0": {
         "dependencies": {
-          "CommunityToolkit.Maui": "9.0.3",
+          "CommunityToolkit.Maui": "8.0.1",
           "Microsoft.Extensions.Logging.Debug": "8.0.0",
           "Microsoft.Maui.Controls": "8.0.82",
           "Microsoft.Maui.Controls.Compatibility": "8.0.82",
           "Newtonsoft.Json": "13.0.3",
+          "Sharpnado.HorusSkeleton.Maui": "2.0.0",
+          "Xamarin.Forms.Skeleton": "2.0.0",
           "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.31"
         },
         "runtime": {
@@ -32,10 +34,11 @@
           }
         }
       },
-      "CommunityToolkit.Maui/9.0.3": {
+      "CommunityToolkit.Maui/8.0.1": {
         "dependencies": {
-          "CommunityToolkit.Maui.Core": "9.0.3",
-          "Microsoft.Maui.Controls": "8.0.82"
+          "CommunityToolkit.Maui.Core": "8.0.1",
+          "Microsoft.Maui.Controls": "8.0.82",
+          "Microsoft.Maui.Controls.Compatibility": "8.0.82"
         },
         "runtime": {
           "lib/net8.0-windows10.0.19041/CommunityToolkit.Maui.dll": {
@@ -44,7 +47,7 @@
           }
         }
       },
-      "CommunityToolkit.Maui.Core/9.0.3": {
+      "CommunityToolkit.Maui.Core/8.0.1": {
         "dependencies": {
           "Microsoft.Maui.Core": "8.0.82",
           "Microsoft.Maui.Essentials": "8.0.82",
@@ -480,11 +483,27 @@
           }
         }
       },
+      "Sharpnado.HorusSkeleton.Maui/2.0.0": {
+        "runtime": {
+          "lib/net6.0/Sharpnado.HorusSkeleton.Maui.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
       "System.Speech/8.0.0": {
         "runtime": {
           "runtimes/win/lib/net8.0/System.Speech.dll": {
             "assemblyVersion": "8.0.0.0",
             "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Xamarin.Forms.Skeleton/2.0.0": {
+        "runtime": {
+          "lib/netstandard1.0/Xamarin.Forms.Skeleton.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       }
@@ -501,19 +520,19 @@
       "serviceable": false,
       "sha512": ""
     },
-    "CommunityToolkit.Maui/9.0.3": {
+    "CommunityToolkit.Maui/8.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-6X8T1AjI3ed+GUKgugJH5btNiPPoDJAxYO8HAm2wcWl1izmjVTfGoJQGj5A/ry2aa4+QNAWPxTn/mIpjukykYg==",
-      "path": "communitytoolkit.maui/9.0.3",
-      "hashPath": "communitytoolkit.maui.9.0.3.nupkg.sha512"
+      "sha512": "sha512-eDzpn74Q+UlJVS8yKIIbTd0CmYZli+U3CzuurnQ3r6AQq/oBvAmHXkGyfp6nIsc4E11CD6esZZ46jofQqJPXsQ==",
+      "path": "communitytoolkit.maui/8.0.1",
+      "hashPath": "communitytoolkit.maui.8.0.1.nupkg.sha512"
     },
-    "CommunityToolkit.Maui.Core/9.0.3": {
+    "CommunityToolkit.Maui.Core/8.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-NiMX2+m3dzNN1H/tW+aFxh1Hcgj5AKUm4Rf6mbhGKaYBe4J6asuuP8Qx1TwYS4HEKLFMvn0LIk1MFSD4TqqgYQ==",
-      "path": "communitytoolkit.maui.core/9.0.3",
-      "hashPath": "communitytoolkit.maui.core.9.0.3.nupkg.sha512"
+      "sha512": "sha512-PN1SqdiDgiqaKrRJyIjE4eDMbvxzHZ9d/CuPVRIzwfVepMRH6VdhErqiPTNXKrtANwyKUPpbQ+7FUoF6NmsSvw==",
+      "path": "communitytoolkit.maui.core/8.0.1",
+      "hashPath": "communitytoolkit.maui.core.8.0.1.nupkg.sha512"
     },
     "Microsoft.Extensions.Configuration/8.0.0": {
       "type": "package",
@@ -683,12 +702,26 @@
       "path": "newtonsoft.json/13.0.3",
       "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
     },
+    "Sharpnado.HorusSkeleton.Maui/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rGJ7UZBw4CfpzEHbvmH/sKIzu+4uxzYUtQZ4qzi8w9F8APyCV7vHj/8pnmTtorED4jzpVzW5ef9pE7MANOBVKQ==",
+      "path": "sharpnado.horusskeleton.maui/2.0.0",
+      "hashPath": "sharpnado.horusskeleton.maui.2.0.0.nupkg.sha512"
+    },
     "System.Speech/8.0.0": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-CNuiA6vb95Oe5PRjClZEBiaju31vwB8OIeCgeSBXyZL6+MS4RVVB2X/C11z0xCkooHE3Vy91nM2z76emIzR+sg==",
       "path": "system.speech/8.0.0",
       "hashPath": "system.speech.8.0.0.nupkg.sha512"
+    },
+    "Xamarin.Forms.Skeleton/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ywhbipDN3okMhi1nPnoqf/uyrryGNGf9k4aXkkSCes5TAmT6EzRCyUGODjzCh4eGb+kUigdchAqlAMiGJXgw2w==",
+      "path": "xamarin.forms.skeleton/2.0.0",
+      "hashPath": "xamarin.forms.skeleton.2.0.0.nupkg.sha512"
     }
   }
 }

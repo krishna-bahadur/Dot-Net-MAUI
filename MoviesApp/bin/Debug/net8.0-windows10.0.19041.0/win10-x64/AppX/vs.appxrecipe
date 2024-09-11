@@ -30,7 +30,7 @@
     <AppXManifest Include="D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-05T05:38:00.106</Modified>
+      <Modified>2024-09-05T05:56:43.746</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MoviesApp.dll">
       <PackagePath>MoviesApp.dll</PackagePath>
-      <Modified>2024-09-05T05:37:51.724</Modified>
+      <Modified>2024-09-05T05:56:42.549</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MoviesApp.exe</PackagePath>
-      <Modified>2024-09-05T05:37:51.928</Modified>
+      <Modified>2024-09-05T05:56:42.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\.Net\.NET MAUI\MoviesApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

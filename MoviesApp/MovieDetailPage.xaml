@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             xmlns:sk="clr-namespace:Xamarin.Forms.Skeleton;assembly=Xamarin.Forms.Skeleton"
              x:Class="MoviesApp.MovieDetailPage"
              BackgroundColor="#0A0A0A">
 
@@ -25,10 +25,26 @@
         <StackLayout Padding="10" Spacing="20">
 
             <!-- Movie Poster -->
-            <Image Source="{Binding FullPosterUrl}"
-                   Aspect="AspectFit"
-                   HorizontalOptions="FillAndExpand"
-                   VerticalOptions="Start"/>
+            <!--<toolkit:Skeleton  IsBusy="{Binding IsLoading}">-->
+                <Image Source="{Binding FullPosterUrl}"
+                       Aspect="AspectFit"
+                       HorizontalOptions="FillAndExpand"
+                       VerticalOptions="Start"/>
+            <!--</toolkit:Skeleton>-->
+
+            <Frame BackgroundColor="Transparent"
+               HasShadow="False"
+               CornerRadius="5"
+               Padding="0"
+               HorizontalOptions="Start"
+               sk:Skeleton.IsBusy="{Binding IsBusy}"
+               sk:Skeleton.BackgroundColor="#c6c6c5">
+                <Label Text="Hello World"
+					TextColor="#000000"
+					FontSize="20"
+					FontAttributes="Bold"
+					HorizontalOptions="Start"/>
+            </Frame>
 
             <!-- Details Grid -->
             <Grid ColumnDefinitions="*, *, *" Margin="20, 0, 30, 0 ">
