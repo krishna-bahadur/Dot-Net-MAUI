@@ -61,7 +61,7 @@ The app uses the [TMDB API](https://www.themoviedb.org) to fetch movie data. The
 
 ## Configuration
 
-- **API Key**: Update your TMDB API/AccessKey key in the configuration file if needed. This file is located in `Services\MovieService.
+- **API Key**: Update your TMDB API/AccessKey key in the configuration file if needed. This file is located in Services\MovieService.
 - **Splash Screen**: Customize the splash screen and app icons in the `Resources` folder.
 
 ## Contributing
