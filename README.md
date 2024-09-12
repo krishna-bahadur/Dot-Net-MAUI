@@ -77,7 +77,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **[TMDB API](https://www.themoviedb.org)**: For providing free movie data and API access.
 - **[.NET 8 MAUI](https://learn.microsoft.com/en-us/dotnet/maui/)**: For the powerful cross-platform framework.
 
-For any issues or questions, please open an issue in the [GitHub repository](https://github.com/yourusername/Movieinfo/issues).
+For any issues or questions, please open an issue in the [GitHub repository](https://github.com/krishna-bahadur/Dot-Net-MAUI/issues).
 
 ---
 
