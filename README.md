@@ -1,6 +1,6 @@
 # Movieinfo
 
-**Movieinfo** is a .NET 8 MAUI application designed to provide a seamless experience for movie enthusiasts. This app was develop for testing and learning purpose. It displays information about movies including those that are now playing, popular, upcoming, top-rated, and more. Users can also search for movies and view detailed information about them, including trailers.
+**Movieinfo** is a .NET 8 MAUI application designed to provide a seamless experience for movie enthusiasts. It displays information about movies including those that are now playing, popular, upcoming, top-rated, and more. Users can also search for movies and view detailed information about them, including trailers.
 
 ## Features
 
@@ -10,6 +10,10 @@
 - **Top Rated**: Discover the highest-rated movies based on user reviews.
 - **Movie Details**: Access detailed information about each movie, including plot summaries and trailers.
 - **Search Functionality**: Search for movies by name to find specific films quickly.
+
+## Note
+
+This app was created for learning purposes to explore and understand .NET MAUI. It is a demonstration of how to use MAUI for building cross-platform applications with movie-related features.
 
 ## How It Works
 
