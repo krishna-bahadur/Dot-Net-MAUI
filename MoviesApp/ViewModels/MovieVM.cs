@@ -16,8 +16,7 @@ public class MovieVM
     [JsonProperty("vote_average")]
     public decimal Rating { get; set; } 
     public string Runtime { get; set; } = string.Empty;
-    public string Revenue { get; set; } = string.Empty;
-    public string Budget { get; set; } = string.Empty;
+    public string YoutubeURL { get; set; } = string.Empty;
 
     public List<Cast> Casts { get; set; } = new List<Cast>();
     // Computed property to get the full image URL

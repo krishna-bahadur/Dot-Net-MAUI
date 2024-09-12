@@ -35,6 +35,7 @@
                            BackgroundColor="Transparent"
                            TextColor="#000"
                            Background="Transparent"
+                           SearchButtonPressed="OnSearchButtonPressed"
                            />
             </Border>
 

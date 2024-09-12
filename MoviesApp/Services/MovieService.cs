@@ -1,5 +1,6 @@
 ﻿using MoviesApp.ViewModels;
 using Newtonsoft.Json;
+using System.Net;
 using System.Net.Http.Headers;
 
 namespace MoviesApp.Services;
@@ -25,6 +26,32 @@ public class MovieService
     public async Task<List<MovieVM>> GetUpcomingMoviesAsync() => await GetMoviesAsync("movie/upcoming");
     public async Task<List<MovieVM>> GetTrendingMoviesAsync() => await GetMoviesAsync("trending/movie/week");
     public async Task<MovieVM> GetMovieDetailAsync(int id) => await GetMovieDetailAsync($"movie/{id}");
+    public async Task<string> GetMovieTrailer(int id) => await GetMovieTrailerAsync($"movie/{id}/videos");
+    public async Task<List<MovieVM>> SearchMovies(string query) => await SearchMoviesAsync($"search/movie?query={query}");
+
+    private async Task<List<MovieVM>> SearchMoviesAsync(string endpoint)
+    {
+        var response = await _httpClient.GetAsync($"{endpoint}");
+        response.EnsureSuccessStatusCode();
+        var json = await response.Content.ReadAsStringAsync();
+        var result = JsonConvert.DeserializeObject<MovieResponse>(json);
+        return result?.Results ?? new List<MovieVM>();
+    }
+
+    private async Task<string> GetMovieTrailerAsync(string endpoint)
+    {
+        var response = await _httpClient.GetAsync($"{endpoint}?language=en-US&page=1");
+        response.EnsureSuccessStatusCode();
+        var json = await response.Content.ReadAsStringAsync();
+        var result = JsonConvert.DeserializeObject<VideoResponse>(json);
+        var trailer = result?.Results.FirstOrDefault(v => v.Type == "Trailer" && v.Site == "YouTube");
+        if (trailer != null)
+        {
+            return $"https://www.youtube.com/embed/{trailer.Key}";
+        }
+
+        return null;
+    }
 
     private async Task<List<MovieVM>> GetMoviesAsync(string endpoint)
     {
@@ -60,6 +87,24 @@ public class MovieService
     {
         [JsonProperty("cast")]
         public List<Cast> Cast { get; set; }
+    }
+
+    public class VideoResponse
+    {
+        [JsonProperty("results")]
+        public List<Video> Results { get; set; }
+    }
+
+    public class Video
+    {
+        [JsonProperty("key")]
+        public string Key { get; set; } 
+
+        [JsonProperty("site")]
+        public string Site { get; set; } 
+
+        [JsonProperty("type")]
+        public string Type { get; set; } 
     }
 
 }

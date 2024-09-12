@@ -54,6 +54,8 @@ public partial class MovieDetailPage : ContentPage, INotifyPropertyChanged
             var casts = await _movieService.GetMovieCreditAsync(_movieId);
             movieDetail.Casts = casts;
 
+            movieDetail.YoutubeURL = await _movieService.GetMovieTrailer(_movieId);
+
             BindingContext = movieDetail;
         }
         catch(Exception ex)

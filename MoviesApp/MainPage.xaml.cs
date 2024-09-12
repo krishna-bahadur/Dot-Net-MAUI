@@ -66,5 +66,18 @@ public partial class MainPage : ContentPage
     {
         await Launcher.OpenAsync(new Uri("https://developer.themoviedb.org"));
     }
+
+    private async void OnSearchButtonPressed(object sender, EventArgs e)
+    {
+        var searchBar = (SearchBar)sender;
+        var query = searchBar.Text;
+
+        if (!string.IsNullOrWhiteSpace(query))
+        {
+            await Navigation.PushAsync(new SearchResultsPage(query));
+
+        }
+
+    }
 }
 

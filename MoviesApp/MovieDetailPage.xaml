@@ -85,14 +85,11 @@
                             </DataTemplate>
                         </CollectionView.ItemTemplate>
                     </CollectionView>
-
-                    <!-- Budget and Revenue -->
-                    <Label Text="{Binding Budget, StringFormat='Budget: {0:C}'}"
-                           FontSize="14"
-                           Margin="10, 0"/>
-                    <Label Text="{Binding Revenue, StringFormat='Revenue: {0:C}'}"
-                           FontSize="14"
-                           Margin="10, 0"/>
+                    
+                    <!--Movie Trailer-->
+                    <WebView Source="{Binding YoutubeURL}"
+                        HeightRequest="300"
+                        WidthRequest="400"/>
 
                     <!-- Cast Section -->
                     <Label Text="Cast"

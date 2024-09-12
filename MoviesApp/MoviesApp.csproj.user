@@ -13,5 +13,8 @@
     <MauiXaml Update="MovieDetailPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="SearchResultsPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
   </ItemGroup>
 </Project>

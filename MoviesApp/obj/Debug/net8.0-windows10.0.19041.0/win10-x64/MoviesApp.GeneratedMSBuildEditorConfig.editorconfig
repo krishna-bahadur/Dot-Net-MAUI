@@ -47,3 +47,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MoviesApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/.Net/.NET MAUI/MoviesApp/SearchResultsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MoviesApp.SearchResultsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SearchResultsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SearchResultsPage.xaml
